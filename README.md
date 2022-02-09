@@ -1,24 +1,28 @@
-# README
+<div align="center">
+  <img height="180em" src="https://i2.wp.com/onebitcode.com/wp-content/uploads/2017/10/logo-redondo.png?ssl=1" />
+</div>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Seja bem vindo ao projeto OneBitFood 
 
-Things you may want to cover:
+<div align="center">
+  <img height="120em" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/obf-lightbg-techsS.png" />
+</div>
 
-* Ruby version
+> Projeto construido pela @anaperola 💖 juntamente com o OneBitCode
 
-* System dependencies
+##
 
-* Configuration
+# 💬 Sobre o projeto:
+Esse projeto foi desenvolvido com o objetivo desenvolver com ambas as ferramentas Rails e Reactjs um delivery web.
 
-* Database creation
+# ✨ Tecnologias utilizadas:
 
-* Database initialization
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [Rails](https://rubyonrails.org/)
 
-* How to run the test suite
+<div>
+  <img align="center" alt="Ana-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Ana-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+</div>
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### ⭐ Marque esse projeto com uma estrela
